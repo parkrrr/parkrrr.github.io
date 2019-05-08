@@ -1,0 +1,60 @@
+body {
+	margin: 8px auto;
+	background-color: #FFF;
+	color: #000;
+	font-family: verdana, helvetica, sans-serif;
+
+}
+	
+ul { color: #000; }
+
+hr {
+	color: #000;
+	height: 1px;
+}
+
+div.company_url
+{
+	font-size: 75%;
+}
+
+a { color: rgb(41, 38, 32); border-bottom: 1px dotted transparent; }
+a:link { color: #8C8984; text-decoration: none; border-bottom-color: #8C8984; }
+a:visited { color: #8C8984; text-decoration: none; border-bottom-color: #8C8984; }
+a:hover, a:active { color: #8C8984; border-bottom: 1px solid #8C8984; }
+
+.col-sm ul {
+	margin: 0 0 0 15px;
+	padding: 0;
+    line-height: 1.5em;
+  }
+
+.col-sm li {
+	margin: 0 0 0 5px;
+	list-style-type: square;
+}
+
+.col-title {
+	color: #fff;
+    padding: 5px 10px;
+    margin-top: .5em;
+}
+
+#projects h4 { background-color: #224C7D; }
+#work h4 { background-color: #7B7252; }
+#links h4 { background-color: #565D7A; }
+
+#projects a { color: #224C7D; border-bottom: 1px dotted transparent; }
+#projects a:link { color: #224C7D; text-decoration: none; border-bottom-color: #224C7D; }
+#projects a:visited { color: #224C7D; text-decoration: none; border-bottom-color: #224C7D; }
+#projects a:hover, a:active { color: #224C7D; border-bottom: 1px solid #224C7D; }
+
+#work a { color: #7B7252; border-bottom: 1px dotted transparent; }
+#work a:link { color: #7B7252; text-decoration: none; border-bottom-color: #7B7252; }
+#work a:visited { color: #7B7252; text-decoration: none; border-bottom-color: #7B7252; }
+#work a:hover, a:active { color: #7B7252; border-bottom: 1px solid #7B7252; }
+
+#links a { color: #565D7A; border-bottom: 1px dotted transparent; }
+#links a:link { color: #565D7A; text-decoration: none; border-bottom-color: #565D7A; }
+#links a:visited { color: #565D7A; text-decoration: none; border-bottom-color: #565D7A; }
+#links a:hover, a:active { color: #565D7A; border-bottom: 1px solid #565D7A; }
